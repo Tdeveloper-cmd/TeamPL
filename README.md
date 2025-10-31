@@ -3,7 +3,7 @@
   <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Animated%20Hello%20Banner/hello.gif" width="80%" alt="Animated Banner"/>
 </p>
 
-<h2 align="center">Привет! Меня зовут [ТВОЁ ИМЯ] 👋</h2>
+<h2 align="center">Привет! Меня зовут Muratov T 👋</h2>
 <p align="center">🧑‍💻 Frontend & Mobile Developer | 🎨 Anime Video Editor</p>
 
 <!-- SVG-анимация для эстетики (можно взять готовую или сделать свою) -->
@@ -20,8 +20,8 @@
 
 <!-- Статистика и активности Github (GitHub Readme Stats) -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ТВОЙ_NICK&show_icons=true&theme=radical" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ТВОЙ_NICK&theme=radical" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=georgiii&show_icons=true&theme=radical" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=georgiiiK&theme=radical" height="180"/>
 </p>
 
 <!-- Анимированные иконки навыков -->
@@ -33,20 +33,20 @@
 <!-- Портфолио или топовые проекты с анимированными превью -->
 ## Проекты
 
-- 🎬 **Anime Edits** – [YouTube](ссылка) — мои лучшие работы, примеры аниме-эдитов
+- 🎬 **Anime Edits** – [YouTube](https://www.youtube.com/@georgiii444) — мои лучшие работы, примеры аниме-эдитов
 - 🌌 **Web/UI Projects** — стильные интерфейсы, dark/light themes, современные хедеры
 - 📱 **Android Apps** — мобильные приложения с современным дизайном и интерактивом
 
 <!-- Анимированная статистика по языкам -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ТВОЙ_NICK&layout=compact&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=georgiii&layout=compact&theme=radical"/>
 </p>
 
 <!-- Социальные ссылки с анимированными иконками -->
 ## Связаться со мной
 
 <p align="center">
-  <a href="mailto:example@mail.com"><img src="https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="gmailto:tanirmuratov2007@gmail.com"><img src="https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://t.me/твой_ник"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
   <a href="https://instagram.com/твой_ник"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
