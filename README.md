@@ -1,6 +1,6 @@
 <!-- Анимированный баннер или приветствие -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Animated%20Hello%20Banner/hello.gif" width="80%" alt="Animated Banner"/>
+  <img src="https://media1.tenor.com/m/LiXgyfzWF5kAAAAd/one-piece-luffy.gif" width="80%" alt="Animated Banner"/>
 </p>
 
 <h2 align="center">Привет! Меня зовут Muratov T 👋</h2>
