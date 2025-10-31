@@ -7,35 +7,8 @@
 <p align="center">🧑‍💻 Frontend & Mobile Developer | 🎨 Anime Video Editor</p>
 
 <!-- SVG-анимация для эстетики (можно взять готовую или сделать свою) -->
-<svg
-  viewbox="0 0 1440 320"
-  width="1440" height="320" 
-  xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <style type="text/css">
-      .wave {
-        animation: wave 8s linear infinite;
-      }
-      @keyframes wave {
-        0% {
-          transform: translateX(0%);
-        }
-        100% {
-          transform: translateX(100%);
-        }
-      }
-    </style>
-    <path
-      fill="#0099ff" fill-opacity="0.2"
-      id='sineWave'
-      d="M0,160 C320,300,420,300,740,160 C1060,20,1120,20,1440,160 V0 H0"
-    />
-  </defs>
-  <use class="wave" href="#sineWave"/>
-  <use class="wave" x="-100%" href="#sineWave"/>
-</svg>
 <p align="center">
-  <img src="https://github.com/roypriyanshu02/impressive-profile-readmes/blob/main/svg-animations/code-animate.svg" width="600px">
+  <img src="https://helpx.adobe.com/content/dam/help/en/dreamweaver/using/writing-editing-code/jcr%3Acontent/main-pars/image_1249847022/Multicursor-2-Gif.gif" width="600px">
 </p>
 
 <!-- Коротко о себе -->
