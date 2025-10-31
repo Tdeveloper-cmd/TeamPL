@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muratov T</h1>
 <h3 align="center">A passionate frontend developer from Kazakhstan</h3>
-<h1 align="center">Hey 👋What's Up?</h1>
-
-###
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
